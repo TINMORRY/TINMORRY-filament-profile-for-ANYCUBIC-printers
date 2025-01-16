@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "0.94"
+    ],
+    "filament_settings_id": [
+        "PLA(Kobra3-Slicer Next-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Anycubic PLA @Anycubic Kobra 3 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "PLA(Kobra3-Slicer Next-TINMORRY)",
+    "version": "1.3.2412.28"
+}
