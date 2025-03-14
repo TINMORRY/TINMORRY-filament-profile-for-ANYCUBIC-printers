@@ -1,0 +1,25 @@
+{
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_retraction_length": [
+        "1.4"
+    ],
+    "filament_settings_id": [
+        "TPU(Kobra S1-Slicer Next-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Anycubic TPU @Anycubic Kobra S1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "TPU(Kobra S1-Slicer Next-TINMORRY)",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "version": "1.3.2503.03"
+}
