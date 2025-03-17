@@ -1,0 +1,37 @@
+{
+    "fan_max_speed": [
+        "60"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "ABS-pro(Kobra S1-Slicer Next-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "95"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "95"
+    ],
+    "inherits": "Anycubic ABS @Anycubic Kobra S1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "ABS-pro(Kobra S1-Slicer Next-TINMORRY)",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "version": "1.3.2503.03"
+}
