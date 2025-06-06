@@ -1,0 +1,49 @@
+{
+    "compatible_printers": [
+        "Anycubic Kobra 2 Plus 0.4 nozzle"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_settings_id": [
+        "PETG-GF(Kobra 2 Plus-Orca-TINMORRY)"
+    ],
+    "filament_type": [
+        "PETG-CF"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG-CF @System",
+    "is_custom_defined": "0",
+    "name": "PETG-GF(Kobra 2 Plus-Orca-TINMORRY)",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "version": "2.3.0.3"
+}
