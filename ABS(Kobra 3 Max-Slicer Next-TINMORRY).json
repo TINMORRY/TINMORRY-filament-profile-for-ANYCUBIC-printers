@@ -1,0 +1,40 @@
+{
+    "chamber_temperature": [
+        "50"
+    ],
+    "fan_cooling_layer_time_BRASS": [
+        "30"
+    ],
+    "fan_max_speed_BRASS": [
+        "60"
+    ],
+    "fan_min_speed_BRASS": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_max_volumetric_speed": [
+        "8"
+    ],
+    "filament_settings_id": [
+        "ABS(Kobra 3 Max-Slicer Next-TINMORRY)"
+    ],
+    "from": "User",
+    "inherits": "Anycubic ABS @Anycubic Kobra 3 Max 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "ABS(Kobra 3 Max-Slicer Next-TINMORRY)",
+    "nozzle_temperature_BRASS": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.025"
+    ],
+    "slow_down_layer_time_BRASS": [
+        "15"
+    ],
+    "version": "1.3.2602.11"
+}
