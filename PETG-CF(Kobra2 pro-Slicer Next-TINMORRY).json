@@ -1,0 +1,55 @@
+{
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "fan_max_speed_BRASS": [
+        "60"
+    ],
+    "fan_min_speed_BRASS": [
+        "30"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_settings_id": [
+        "PETG-CF(Kobra2 pro-Slicer Next-TINMORRY)"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "4"
+    ],
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Anycubic PETG @Anycubic Kobra 2 Pro 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "PETG-CF(Kobra2 pro-Slicer Next-TINMORRY)",
+    "nozzle_temperature_BRASS": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer_BRASS": [
+        "260"
+    ],
+    "nozzle_temperature_range_high": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.035"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "1.3.2603.16"
+}
